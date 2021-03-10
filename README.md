@@ -15,12 +15,12 @@ Here is a organized list of the main things that I have worked or that I'm curre
 ## Java
 
 * [Games made in Java](https://github.com/MysteRys337/EclipseJogos)
+* [CRUD in Java](https://github.com/solid-titans/AEDs3) -> participated
 
 ## C++ 
 
 * [Graphs(College course)](https://github.com/MysteRys337/graph_algorithms_in_cpp)
 
-# Projects that I participated
 
-* [CRUD in Java](https://github.com/solid-titans/AEDs3)
+
 
