@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**MysteRys337/MysteRys337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gustavo Lopes, also know as MysteRys337 (it's my alias anyway, so don't worry about it :P)
 
-Here are some ideas to get you started:
+Since I was a kid, my biggest interest was in the computers and technologies, especially when it comes to videogames.
+Right now, I am a Computer Science graduate  student, hoping that I can learn as much as I can, and so use set abilities 
+for my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is a organized list of the main things that I have worked or that I'm currently working on:
+
+# My repositórios:
+
+## Flutter
+
+* [Mobile development(College course)](https://github.com/MysteRys337/LDDM-PUC2021) -> main repository 
+* [Dummy projects to learn Flutter and Dart](https://github.com/MysteRys337/MeusAPPsFlutter)
+
+## Java
+
+* [Games made in Java](https://github.com/MysteRys337/EclipseJogos)
+
+## C++ 
+
+* [Graphs(College course)](https://github.com/MysteRys337/graph_algorithms_in_cpp)
+
+# TeX
+
+* [Research in Machine Learning](https://github.com/MysteRys337/Trabalho-LDO-ML)
+
+# Projects that I participated
+
+* [CRUD in Java](https://github.com/solid-titans/AEDs3)
