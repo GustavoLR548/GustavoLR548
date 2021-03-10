@@ -20,6 +20,7 @@ Here is a organized list of the main things that I have worked or that I'm curre
 ## C++ 
 
 * [Graphs(College work)](https://github.com/MysteRys337/graph_algorithms_in_cpp)
+* [Image inpainting(College research)](https://github.com/solid-titans/image-inpaiting-in-cpp)
 
 
 
