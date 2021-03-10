@@ -6,7 +6,7 @@ Since I was a kid, my biggest interest was in computers and technologies, especi
 Right now, I am a Computer Science graduate  student, hoping that I can learn as much as I can, I order to use set abilities 
 for my projects
 
-Here is a organized list of the main things that I have worked or that I'm currently working on:
+Here is a [organized list](https://github.com/MysteRys337/MysteRys337/blob/main/LIST.md) of the main things that I have worked or that I'm currently working on:
 
 
 
