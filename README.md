@@ -8,7 +8,7 @@ for my projects
 
 Here is a organized list of the main things that I have worked or that I'm currently working on:
 
-# My repositórios:
+# My repositories:
 
 ## Flutter
 
