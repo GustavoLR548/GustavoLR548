@@ -8,13 +8,10 @@ for my projects
 
 Here is a organized list of the main things that I have worked or that I'm currently working on:
 
-# My repositories:
-
 ## Flutter
 
 * [Mobile development(College course)](https://github.com/MysteRys337/LDDM-PUC2021) -> main repository 
-* [Dummy projects to learn Flutter and Dart](https://github.com/MysteRys337/MeusAPPsFlutter)
-
+* 
 ## Java
 
 * [Games made in Java](https://github.com/MysteRys337/EclipseJogos)
@@ -23,10 +20,7 @@ Here is a organized list of the main things that I have worked or that I'm curre
 
 * [Graphs(College course)](https://github.com/MysteRys337/graph_algorithms_in_cpp)
 
-# TeX
-
-* [Research in Machine Learning](https://github.com/MysteRys337/Trabalho-LDO-ML)
-
 # Projects that I participated
 
 * [CRUD in Java](https://github.com/solid-titans/AEDs3)
+
