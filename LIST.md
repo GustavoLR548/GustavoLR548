@@ -10,4 +10,4 @@
 ## C++ 
 
 * [Graphs(College work)](https://github.com/MysteRys337/graph_algorithms_in_cpp)
-* [Image inpainting(College research)](https://github.com/solid-titans/image-inpaiting-in-cpp)
+* [Image inpainting(College research)](https://github.com/solid-titans/image-inpaiting-in-cpp) -> participated
