@@ -2,7 +2,7 @@
 
 My name is Gustavo Lopes, also know as MysteRys337 (it's my alias anyway, so don't worry about it :P)
 
-Since I was a kid, my biggest interest was in the computers and technologies, especially when it comes to videogames.
+Since I was a kid, my biggest interest was in computers and technologies, especially when it comes to videogames.
 Right now, I am a Computer Science graduate  student, hoping that I can learn as much as I can, I order to use set abilities 
 for my projects
 
