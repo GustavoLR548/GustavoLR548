@@ -10,16 +10,16 @@ Here is a organized list of the main things that I have worked or that I'm curre
 
 ## Flutter
 
-* [Mobile development(College course)](https://github.com/MysteRys337/LDDM-PUC2021) -> main repository 
+* [Mobile development(College work)](https://github.com/MysteRys337/LDDM-PUC2021) -> main repository 
 
 ## Java
 
 * [Games made in Java](https://github.com/MysteRys337/EclipseJogos)
-* [CRUD in Java](https://github.com/solid-titans/AEDs3) -> participated
+* [CRUD in Java(College work)](https://github.com/solid-titans/AEDs3) -> participated
 
 ## C++ 
 
-* [Graphs(College course)](https://github.com/MysteRys337/graph_algorithms_in_cpp)
+* [Graphs(College work)](https://github.com/MysteRys337/graph_algorithms_in_cpp)
 
 
 
