@@ -8,6 +8,8 @@ for my projects
 
 Here is a [organized list](https://github.com/MysteRys337/MysteRys337/blob/main/LIST.md) of the main things that I have worked or that I'm currently working on:
 
+Here! Check it out [my portfolio](https://mysterys337.github.io/devportfolio/) :)
+
 
 
 
