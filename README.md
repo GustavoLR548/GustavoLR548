@@ -4,11 +4,8 @@
 
 <p align="center">
   <img width="200" src="https://img.shields.io/badge/-Gustavo%20Lopes-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lr/)](https://www.linkedin.com/in/gustavo-lr/" alt="Linkedin">
+   <img width="200" src="https://img.shields.io/badge/release%20date-august%202020-red" alt="ReleaseDate">
 </p>
-<p align="center">
-  <img width="200" src="https://img.shields.io/badge/release%20date-august%202020-red" alt="ReleaseDate">
-</p>
-
 
  * Confira a minha [lista organizada](https://github.com/MysteRys337/MysteRys337/blob/main/LIST.md) das principais coisas que trabalhei ou que estou trabalhando.
  * Também de uma olhada no [meu portfólio](https://mysterys337.github.io/devportfolio/)
