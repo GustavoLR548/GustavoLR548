@@ -8,6 +8,8 @@
    <img width="180" src="https://img.shields.io/badge/release%20date-august%202020-red" alt="ReleaseDate">
 </p>
 
+  
  * Confira a minha [lista organizada](https://github.com/MysteRys337/MysteRys337/blob/main/LIST.md) das principais coisas que trabalhei ou que estou trabalhando.
+ * Confira minha nova organização [Guara Produções](https://github.com/GuaraProductions). Focada em produção de jogos.
  * Também de uma olhada no [meu portfólio](https://gustavolr548.github.io/devportfolio/)
 
