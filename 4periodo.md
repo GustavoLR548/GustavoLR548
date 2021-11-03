@@ -25,6 +25,7 @@
 # Banco de Dados
 
 - [Controle de Concorrência](https://github.com/GustavoLR548/controle_de_concorrencia-BD)
+- [Hands-on](https://github.com/MrLaTeXWorkshop/BD-PUC-MG)
 
 # Estatística e Probabilidade
 
