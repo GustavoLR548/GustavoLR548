@@ -29,3 +29,5 @@
 # Estatística e Probabilidade
 
 - [Calculadora de Estatística](https://github.com/GustavoLR548/calculadora_estatistica)
+- [Listas de exercício](https://github.com/MrLaTeXWorkshop/Listas-EstatisticaGLR)
+- [ABNT](https://github.com/MrLaTeXWorkshop/EP-ABNT)
