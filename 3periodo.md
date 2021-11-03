@@ -1,6 +1,6 @@
 # Arquitetura de Computadores II
 
-- [repositório](https://github.com/GustavoLR548/ACII-GLR)
+- [Repositório](https://github.com/GustavoLR548/ACII-GLR)
 
 # Algoritmo e Estrutura de Dados III
 
