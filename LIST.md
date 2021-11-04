@@ -22,4 +22,4 @@ Criando minha própria implementação de uma matrix flexível em C++
 
 - [Empresa de jogos](https://github.com/GuaraProductions/Welcome-to-GuaraProductions)
 
-Um grupo criado por mim, dedicado a criaç
+Um grupo criado por mim, dedicado a criação de jogos
