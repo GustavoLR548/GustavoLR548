@@ -14,3 +14,7 @@
 # Projeto e Análise de Algoritmos 
 
 - [Pares de pontos próximos](https://github.com/solid-titans/pontos-proximos-PAA)
+
+# Sistemas Operacionais
+
+- [Listas de exercícios](https://github.com/MrLaTeXWorkshop/SO-GLR)
