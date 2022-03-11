@@ -9,3 +9,7 @@
 - [Tarefas](https://github.com/GustavoLR548/CPguacamole)
 - [IA-paralela](https://github.com/GustavoLR548/kmeans_imageSegmentation)
 - [Blockchain-paralela](https://github.com/GustavoLR548/TestChain-openmp)
+
+# Processamento de Imagem 
+
+- [Algoritmos](https://github.com/GustavoLR548/PI-GLR)
