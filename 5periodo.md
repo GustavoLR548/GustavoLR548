@@ -18,3 +18,7 @@
 # Sistemas Operacionais
 
 - [Listas de exercícios](https://github.com/MrLaTeXWorkshop/SO-GLR)
+
+# Fundamentos Teóricos da Computação
+
+- [Lista de exercícios](https://github.com/MrLaTeXWorkshop/FTC-GLR)
