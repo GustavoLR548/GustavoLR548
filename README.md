@@ -1,6 +1,6 @@
 <h1 align="center">Gustavo Lopes Rodrigues</h1>
 
-<h2 align="center">Cientista da Computação</h2>
+<h2 align="center">Cientista da Computação e Fullstack Developer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-lr/">
