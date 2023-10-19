@@ -11,7 +11,7 @@
 
  * Principais interesses:
    * Desenvolvimento Front-End (Mobile & Web)
-   * Inteligência Artificial voltado a Processamento de Imagens
+   * Inteligência Artificial voltado a Processamento de Imagens (Ex.: Image inpainting, Upscale, Stable Diffusion)
    * Desenvolvimento de Jogos
    * Educação e Tecnologia
  * Confira a organização [Programando o Mundo](https://github.com/Programando-o-Mundo) a qual eu faço parte como membro e organizador e dedico muito do meu esforço para fazer projetos legais.
