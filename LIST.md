@@ -7,4 +7,4 @@
 - [5° Período](https://github.com/GustavoLR548/GustavoLR548/blob/main/5periodo.md)
 - [6° Período](https://github.com/GustavoLR548/GustavoLR548/blob/main/6periodo.md)
 - [7° Período](https://github.com/GustavoLR548/GustavoLR548/blob/main/7periodo.md)
-- 8° Período 
+- 8° Período (Nenhum repositório)
