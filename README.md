@@ -11,6 +11,7 @@
 
  * Principais interesses:
    * Desenvolvimento Front-End (Mobile & Web)
+   * Inteligência Artificial voltado a Processamento de Imagens
    * Desenvolvimento de Jogos
  * Confira a organização [Programando o Mundo](https://github.com/Programando-o-Mundo) a qual eu faço parte como membro e organizador e dedico muito do meu esforço para fazer projetos legais.
  * Também de uma olhada no [meu portfólio](https://gustavolr548.github.io/devportfolio/) onde você irá saber um pouco da minha trajetória e os meus principais trabalhos
