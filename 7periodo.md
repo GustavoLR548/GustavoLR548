@@ -15,3 +15,7 @@
 
 - [Listas de Otimização](https://github.com/GustavoLR548/ListasOtimizacao)
 - [Calculador de Dieta - Aplicativo usando Flutter](https://github.com/solid-titans/otimizaapp)
+
+# TCC (Parte 1)
+
+- [Estudo de GANs](https://github.com/GustavoLR548/Estudo-TCC)
