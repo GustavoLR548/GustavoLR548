@@ -12,7 +12,6 @@
  * Principais interesses:
    * Desenvolvimento Front-End (Mobile & Web)
    * Desenvolvimento de Jogos
- * [Confira a minha lista organizada](https://github.com/MysteRys337/MysteRys337/blob/main/LIST.md) das principais coisas que trabalhei ou que estou trabalhando.
- * Confira minha nova organização [Guara Produções](https://github.com/GuaraProductions). Focada em produção de jogos.
- * Também de uma olhada no [meu portfólio](https://gustavolr548.github.io/devportfolio/)
+ * Confira a organização [Programando o Mundo](https://github.com/Programando-o-Mundo) a qual eu dedico muito do meu esforço para fazer projetos legais.
+ * Também de uma olhada no [meu portfólio](https://gustavolr548.github.io/devportfolio/) onde você irá saber um pouco da minha trajetória e os meus principais trabalhos
 
