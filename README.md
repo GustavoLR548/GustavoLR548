@@ -8,7 +8,6 @@
    <img width="180" src="https://img.shields.io/badge/release%20date-august%202020-red" alt="ReleaseDate">
 </p>
 
-
 ## Principais interesses:
  * Desenvolvimento Front-End (Mobile & Web)
  * Inteligência Artificial voltado a Processamento de Imagens (Ex.: Image inpainting, Upscale, Stable Diffusion)
@@ -20,4 +19,5 @@
  * Confira a organização [Programando o Mundo](https://github.com/Programando-o-Mundo) a qual eu faço parte como membro/organizador e dedico muito para fazer projetos legais.
  * Também de uma olhada no [meu portfólio](https://gustavolr548.github.io/devportfolio/) onde você irá saber um pouco da minha trajetória e os meus principais trabalhos.
  * Estou disponibilizando também a [lista](https://github.com/GustavoLR548/GustavoLR548/blob/main/LIST.md) contendo os meus principais trabalhos de faculdade.
+ * Confira meu perfil no [HackerRank](https://www.hackerrank.com/profile/gustavolr035)
 
