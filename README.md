@@ -9,7 +9,7 @@
 </p>
 
 ## Principais interesses:
- * Desenvolvimento Front-End (Mobile & Web)
+ * Desenvolvimento Fullstack (Java, React, HTML/CSS/Javascript)
  * Inteligência Artificial voltado a Processamento de Imagens (Ex.: Image inpainting, Upscale, Stable Diffusion)
  * Desenvolvimento de Jogos
  * Educação e Tecnologia
