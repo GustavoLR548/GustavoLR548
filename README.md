@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Meu nome é <a href="https://www.linkedin.com/in/gustavo-lr/">Gustavo Lopes</a> e sou Desenvolvedor Fullstack e de Jogos, do Brasil.</p>
-<p align="left">Sou formado em Ciência da Computação pela PUC Minas</p>
+<p align="left">Sou formado em Ciência da Computação pela PUC Minas.</p>
 
 ###
 
