@@ -11,11 +11,8 @@
 
 ###
 
-Back-end: Spring Boot, Node.js 
-
-Front-end: React, React Native, Flutter
-
-Banco de Dados: MySQL, Redis, PostreSQL, Pocketbase
+| **Back-end:** Spring Boot, Node.js | **Front-end:** React, React Native, Flutter, Godot | **Banco de Dados:** MySQL, Redis, PostreSQL, Pocketbase |
+|------------------------------------|----------------------------------------------------|---------------------------------------------------------|
 
 ###
 
@@ -23,8 +20,8 @@ Banco de Dados: MySQL, Redis, PostreSQL, Pocketbase
 
 ###
 
-- [Trabalhos de Faculdade](https://github.com/GustavoLR548/GustavoLR548/blob/main/LIST.md)
-- [Trabalhos mais relevantes](https://github.com/GustavoLR548/GustavoLR548/blob/main/BIGGEST_PROJECTS.md)
+| [Trabalhos de Faculdade](https://github.com/GustavoLR548/GustavoLR548/blob/main/LIST.md) | [Trabalhos mais relevantes](https://github.com/GustavoLR548/GustavoLR548/blob/main/BIGGEST_PROJECTS.md) |
+|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 
 ###
 
