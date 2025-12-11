@@ -11,7 +11,11 @@
 
 ###
 
-<p align="left">Back-end: Spring Boot, Node.js <br>Front-end: React, React Native, Flutter <br></p>
+Back-end: Spring Boot, Node.js 
+
+Front-end: React, React Native, Flutter
+
+Banco de Dados: MySQL, Redis, PostreSQL, Pocketbase
 
 ###
 
