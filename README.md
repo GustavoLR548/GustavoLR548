@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é <a href="https://www.linkedin.com/in/gustavo-lr/">Gustavo Lopes</a> e sou Desenvolvedor Fullstack e de Jogos, do Brasil.</p>
+Sou Desenvolvedor Fullstack e de Jogos, do Brasil.</p>
 
 ###
 
