@@ -1,8 +1,4 @@
-<h1 align="left">Seja bem vindo!</h1>
-
-###
-
-Sou Desenvolvedor Fullstack e de Jogos, do Brasil.</p>
+<h1 align="left">Desenvolvedor Fullstack e de Jogos!</h1>
 
 ###
 
