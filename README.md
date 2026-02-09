@@ -1,7 +1,3 @@
-<h1 align="left">Desenvolvedor Fullstack e de Jogos!</h1>
-
-###
-
 <h2 align="left">Sobre minha stack</h2>
 
 ###
