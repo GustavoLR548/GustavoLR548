@@ -2,7 +2,7 @@
 
 ###
 
-| **Back-end:** Spring Boot, Gin, Node.js | **Front-end:** React, React Native, Flutter, Godot | **Banco de Dados:** MySQL, Redis, PostegreSQL, Pocketbase |
+| **Back-end:** Spring Boot, Gin, Node.js, FastAPI | **Front-end:** React, React Native, Flutter, Godot | **Banco de Dados:** MySQL, Redis, PostegreSQL, Pocketbase |
 |-----------------------------------------|----------------------------------------------------|---------------------------------------------------------|
 
 ###
